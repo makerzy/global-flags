@@ -1,0 +1,2163 @@
+[
+  {
+    "country": "afghanistan",
+    "country_code": [
+      "93"
+    ],
+    "iso_code": [
+      "AF",
+      "AFG"
+    ],
+    "flag": "/flags/afghanistan.jpg"
+  },
+  {
+    "country": "albania",
+    "country_code": [
+      "355"
+    ],
+    "iso_code": [
+      "AL",
+      "ALB"
+    ],
+    "flag": "/flags/albania.jpg"
+  },
+  {
+    "country": "algeria",
+    "country_code": [
+      "213"
+    ],
+    "iso_code": [
+      "DZ",
+      "DZA"
+    ],
+    "flag": "/flags/algeria.jpg"
+  },
+  {
+    "country": "andorra",
+    "country_code": [
+      "376"
+    ],
+    "iso_code": [
+      "AD",
+      "AND"
+    ],
+    "flag": "/flags/andorra.jpg"
+  },
+  {
+    "country": "angola",
+    "country_code": [
+      "244"
+    ],
+    "iso_code": [
+      "AO",
+      "AGO"
+    ],
+    "flag": "/flags/angola.jpg"
+  },
+  {
+    "country": "antigua and barbuda",
+    "country_code": [
+      "1-268"
+    ],
+    "iso_code": [
+      "AG",
+      "ATG"
+    ],
+    "flag": "/flags/antigua and barbuda.jpg"
+  },
+  {
+    "country": "argentina",
+    "country_code": [
+      "54"
+    ],
+    "iso_code": [
+      "AR",
+      "ARG"
+    ],
+    "flag": "/flags/argentina.jpg"
+  },
+  {
+    "country": "armenia",
+    "country_code": [
+      "374"
+    ],
+    "iso_code": [
+      "AM",
+      "ARM"
+    ],
+    "flag": "/flags/armenia.jpg"
+  },
+  {
+    "country": "australia",
+    "country_code": [
+      "61"
+    ],
+    "iso_code": [
+      "AU",
+      "AUS"
+    ],
+    "flag": "/flags/australia.jpg"
+  },
+  {
+    "country": "austria",
+    "country_code": [
+      "43"
+    ],
+    "iso_code": [
+      "AT",
+      "AUT"
+    ],
+    "flag": "/flags/austria.jpg"
+  },
+  {
+    "country": "azerbaijan",
+    "country_code": [
+      "994"
+    ],
+    "iso_code": [
+      "AZ",
+      "AZE"
+    ],
+    "flag": "/flags/azerbaijan.jpg"
+  },
+  {
+    "country": "bahamas",
+    "country_code": [
+      "1-242"
+    ],
+    "iso_code": [
+      "BS",
+      "BHS"
+    ],
+    "flag": "/flags/bahamas.jpg"
+  },
+  {
+    "country": "bahrain",
+    "country_code": [
+      "973"
+    ],
+    "iso_code": [
+      "BH",
+      "BHR"
+    ],
+    "flag": "/flags/bahrain.jpg"
+  },
+  {
+    "country": "bangladesh",
+    "country_code": [
+      "880"
+    ],
+    "iso_code": [
+      "BD",
+      "BGD"
+    ],
+    "flag": "/flags/bangladesh.jpg"
+  },
+  {
+    "country": "barbados",
+    "country_code": [
+      "1-246"
+    ],
+    "iso_code": [
+      "BB",
+      "BRB"
+    ],
+    "flag": "/flags/barbados.jpg"
+  },
+  {
+    "country": "belarus",
+    "country_code": [
+      "375"
+    ],
+    "iso_code": [
+      "BY",
+      "BLR"
+    ],
+    "flag": "/flags/belarus.jpg"
+  },
+  {
+    "country": "belgium",
+    "country_code": [
+      "32"
+    ],
+    "iso_code": [
+      "BE",
+      "BEL"
+    ],
+    "flag": "/flags/belgium.jpg"
+  },
+  {
+    "country": "belize",
+    "country_code": [
+      "501"
+    ],
+    "iso_code": [
+      "BZ",
+      "BLZ"
+    ],
+    "flag": "/flags/belize.jpg"
+  },
+  {
+    "country": "benin",
+    "country_code": [
+      "229"
+    ],
+    "iso_code": [
+      "BJ",
+      "BEN"
+    ],
+    "flag": "/flags/benin.jpg"
+  },
+  {
+    "country": "bhutan",
+    "country_code": [
+      "975"
+    ],
+    "iso_code": [
+      "BT",
+      "BTN"
+    ],
+    "flag": "/flags/bhutan.jpg"
+  },
+  {
+    "country": "bolivia",
+    "country_code": [
+      "591"
+    ],
+    "iso_code": [
+      "BO",
+      "BOL"
+    ],
+    "flag": "/flags/bolivia.jpg"
+  },
+  {
+    "country": "bosnia and herzegovina",
+    "country_code": [
+      "387"
+    ],
+    "iso_code": [
+      "BA",
+      "BIH"
+    ],
+    "flag": "/flags/bosnia and herzegovina.jpg"
+  },
+  {
+    "country": "botswana",
+    "country_code": [
+      "267"
+    ],
+    "iso_code": [
+      "BW",
+      "BWA"
+    ],
+    "flag": "/flags/botswana.jpg"
+  },
+  {
+    "country": "brazil",
+    "country_code": [
+      "55"
+    ],
+    "iso_code": [
+      "BR",
+      "BRA"
+    ],
+    "flag": "/flags/brazil.jpg"
+  },
+  {
+    "country": "brunei",
+    "country_code": [
+      "673"
+    ],
+    "iso_code": [
+      "BN",
+      "BRN"
+    ],
+    "flag": "/flags/brunei.jpg"
+  },
+  {
+    "country": "bulgaria",
+    "country_code": [
+      "359"
+    ],
+    "iso_code": [
+      "BG",
+      "BGR"
+    ],
+    "flag": "/flags/bulgaria.jpg"
+  },
+  {
+    "country": "burkina faso",
+    "country_code": [
+      "226"
+    ],
+    "iso_code": [
+      "BF",
+      "BFA"
+    ],
+    "flag": "/flags/burkina faso.jpg"
+  },
+  {
+    "country": "burundi",
+    "country_code": [
+      "257"
+    ],
+    "iso_code": [
+      "BI",
+      "BDI"
+    ],
+    "flag": "/flags/burundi.jpg"
+  },
+  {
+    "country": "cambodia",
+    "country_code": [
+      "855"
+    ],
+    "iso_code": [
+      "KH",
+      "KHM"
+    ],
+    "flag": "/flags/cambodia.jpg"
+  },
+  {
+    "country": "cameroon",
+    "country_code": [
+      "237"
+    ],
+    "iso_code": [
+      "CM",
+      "CMR"
+    ],
+    "flag": "/flags/cameroon.jpg"
+  },
+  {
+    "country": "canada",
+    "country_code": [
+      "1"
+    ],
+    "iso_code": [
+      "CA",
+      "CAN"
+    ],
+    "flag": "/flags/canada.jpg"
+  },
+  {
+    "country": "cape verde",
+    "country_code": [
+      "238"
+    ],
+    "iso_code": [
+      "CV",
+      "CPV"
+    ],
+    "flag": "/flags/cape verde.jpg"
+  },
+  {
+    "country": "central african republic",
+    "country_code": [
+      "236"
+    ],
+    "iso_code": [
+      "CF",
+      "CAF"
+    ],
+    "flag": "/flags/central african republic.jpg"
+  },
+  {
+    "country": "chad",
+    "country_code": [
+      "235"
+    ],
+    "iso_code": [
+      "TD",
+      "TCD"
+    ],
+    "flag": "/flags/chad.jpg"
+  },
+  {
+    "country": "chile",
+    "country_code": [
+      "56"
+    ],
+    "iso_code": [
+      "CL",
+      "CHL"
+    ],
+    "flag": "/flags/chile.jpg"
+  },
+  {
+    "country": "china",
+    "country_code": [
+      "86"
+    ],
+    "iso_code": [
+      "CN",
+      "CHN"
+    ],
+    "flag": "/flags/china.jpg"
+  },
+  {
+    "country": "colombia",
+    "country_code": [
+      "57"
+    ],
+    "iso_code": [
+      "CO",
+      "COL"
+    ],
+    "flag": "/flags/colombia.jpg"
+  },
+  {
+    "country": "comoros",
+    "country_code": [
+      "269"
+    ],
+    "iso_code": [
+      "KM",
+      "COM"
+    ],
+    "flag": "/flags/comoros.jpg"
+  },
+  {
+    "country": "costa rica",
+    "country_code": [
+      "506"
+    ],
+    "iso_code": [
+      "CR",
+      "CRI"
+    ],
+    "flag": "/flags/costa rica.jpg"
+  },
+  {
+    "country": "croatia",
+    "country_code": [
+      "385"
+    ],
+    "iso_code": [
+      "HR",
+      "HRV"
+    ],
+    "flag": "/flags/croatia.jpg"
+  },
+  {
+    "country": "cuba",
+    "country_code": [
+      "53"
+    ],
+    "iso_code": [
+      "CU",
+      "CUB"
+    ],
+    "flag": "/flags/cuba.jpg"
+  },
+  {
+    "country": "cyprus",
+    "country_code": [
+      "357"
+    ],
+    "iso_code": [
+      "CY",
+      "CYP"
+    ],
+    "flag": "/flags/cyprus.jpg"
+  },
+  {
+    "country": "czech republic",
+    "country_code": [
+      "420"
+    ],
+    "iso_code": [
+      "CZ",
+      "CZE"
+    ],
+    "flag": "/flags/czech republic.jpg"
+  },
+  {
+    "country": "democratic republic of congo",
+    "country_code": [
+      "242"
+    ],
+    "iso_code": [
+      "CG",
+      "COG"
+    ],
+    "flag": "/flags/democratic republic of congo.jpg"
+  },
+  {
+    "country": "democratic republic of the congo",
+    "country_code": [
+      "243"
+    ],
+    "iso_code": [
+      "CD",
+      "COD"
+    ],
+    "flag": "/flags/democratic republic of the congo.jpg"
+  },
+  {
+    "country": "denmark",
+    "country_code": [
+      "45"
+    ],
+    "iso_code": [
+      "DK",
+      "DNK"
+    ],
+    "flag": "/flags/denmark.jpg"
+  },
+  {
+    "country": "djibouti",
+    "country_code": [
+      "253"
+    ],
+    "iso_code": [
+      "DJ",
+      "DJI"
+    ],
+    "flag": "/flags/djibouti.jpg"
+  },
+  {
+    "country": "dominica",
+    "country_code": [
+      "1-767"
+    ],
+    "iso_code": [
+      "DM",
+      "DMA"
+    ],
+    "flag": "/flags/dominica.jpg"
+  },
+  {
+    "country": "dominican republic",
+    "country_code": [
+      "1-809",
+      " 1-829",
+      " 1-849"
+    ],
+    "iso_code": [
+      "DO",
+      "DOM"
+    ],
+    "flag": "/flags/dominican republic.jpg"
+  },
+  {
+    "country": "east timor",
+    "country_code": [
+      "670"
+    ],
+    "iso_code": [
+      "TL",
+      "TLS"
+    ],
+    "flag": "/flags/east timor.jpg"
+  },
+  {
+    "country": "ecuador",
+    "country_code": [
+      "593"
+    ],
+    "iso_code": [
+      "EC",
+      "ECU"
+    ],
+    "flag": "/flags/ecuador.jpg"
+  },
+  {
+    "country": "egypt",
+    "country_code": [
+      "20"
+    ],
+    "iso_code": [
+      "EG",
+      "EGY"
+    ],
+    "flag": "/flags/egypt.jpg"
+  },
+  {
+    "country": "el salvador",
+    "country_code": [
+      "503"
+    ],
+    "iso_code": [
+      "SV",
+      "SLV"
+    ],
+    "flag": "/flags/el salvador.jpg"
+  },
+  {
+    "country": "equatorial guinea",
+    "country_code": [
+      "240"
+    ],
+    "iso_code": [
+      "GQ",
+      "GNQ"
+    ],
+    "flag": "/flags/equatorial guinea.jpg"
+  },
+  {
+    "country": "eritrea",
+    "country_code": [
+      "291"
+    ],
+    "iso_code": [
+      "ER",
+      "ERI"
+    ],
+    "flag": "/flags/eritrea.jpg"
+  },
+  {
+    "country": "estonia",
+    "country_code": [
+      "372"
+    ],
+    "iso_code": [
+      "EE",
+      "EST"
+    ],
+    "flag": "/flags/estonia.jpg"
+  },
+  {
+    "flag": ""
+  },
+  {
+    "country": "ethiopia",
+    "country_code": [
+      "251"
+    ],
+    "iso_code": [
+      "ET",
+      "ETH"
+    ],
+    "flag": "/flags/ethiopia.jpg"
+  },
+  {
+    "country": "fiji",
+    "country_code": [
+      "679"
+    ],
+    "iso_code": [
+      "FJ",
+      "FJI"
+    ],
+    "flag": "/flags/fiji.jpg"
+  },
+  {
+    "country": "finland",
+    "country_code": [
+      "358"
+    ],
+    "iso_code": [
+      "FI",
+      "FIN"
+    ],
+    "flag": "/flags/finland.jpg"
+  },
+  {
+    "country": "france",
+    "country_code": [
+      "33"
+    ],
+    "iso_code": [
+      "FR",
+      "FRA"
+    ],
+    "flag": "/flags/france.jpg"
+  },
+  {
+    "country": "gabon",
+    "country_code": [
+      "241"
+    ],
+    "iso_code": [
+      "GA",
+      "GAB"
+    ],
+    "flag": "/flags/gabon.jpg"
+  },
+  {
+    "country": "gambia",
+    "country_code": [
+      "220"
+    ],
+    "iso_code": [
+      "GM",
+      "GMB"
+    ],
+    "flag": "/flags/gambia.jpg"
+  },
+  {
+    "country": "georgia",
+    "country_code": [
+      "995"
+    ],
+    "iso_code": [
+      "GE",
+      "GEO"
+    ],
+    "flag": "/flags/georgia.jpg"
+  },
+  {
+    "country": "germany",
+    "country_code": [
+      "49"
+    ],
+    "iso_code": [
+      "DE",
+      "DEU"
+    ],
+    "flag": "/flags/germany.jpg"
+  },
+  {
+    "country": "ghana",
+    "country_code": [
+      "233"
+    ],
+    "iso_code": [
+      "GH",
+      "GHA"
+    ],
+    "flag": "/flags/ghana.jpg"
+  },
+  {
+    "country": "greece",
+    "country_code": [
+      "30"
+    ],
+    "iso_code": [
+      "GR",
+      "GRC"
+    ],
+    "flag": "/flags/greece.jpg"
+  },
+  {
+    "country": "grenada",
+    "country_code": [
+      "1-473"
+    ],
+    "iso_code": [
+      "GD",
+      "GRD"
+    ],
+    "flag": "/flags/grenada.jpg"
+  },
+  {
+    "country": "guatemala",
+    "country_code": [
+      "502"
+    ],
+    "iso_code": [
+      "GT",
+      "GTM"
+    ],
+    "flag": "/flags/guatemala.jpg"
+  },
+  {
+    "country": "guinea-bissau",
+    "country_code": [
+      "245"
+    ],
+    "iso_code": [
+      "GW",
+      "GNB"
+    ],
+    "flag": "/flags/guinea-bissau.jpg"
+  },
+  {
+    "country": "guinea",
+    "country_code": [
+      "224"
+    ],
+    "iso_code": [
+      "GN",
+      "GIN"
+    ],
+    "flag": "/flags/guinea.jpg"
+  },
+  {
+    "country": "guyana",
+    "country_code": [
+      "592"
+    ],
+    "iso_code": [
+      "GY",
+      "GUY"
+    ],
+    "flag": "/flags/guyana.jpg"
+  },
+  {
+    "country": "haiti",
+    "country_code": [
+      "509"
+    ],
+    "iso_code": [
+      "HT",
+      "HTI"
+    ],
+    "flag": "/flags/haiti.jpg"
+  },
+  {
+    "country": "honduras",
+    "country_code": [
+      "504"
+    ],
+    "iso_code": [
+      "HN",
+      "HND"
+    ],
+    "flag": "/flags/honduras.jpg"
+  },
+  {
+    "country": "hungary",
+    "country_code": [
+      "36"
+    ],
+    "iso_code": [
+      "HU",
+      "HUN"
+    ],
+    "flag": "/flags/hungary.jpg"
+  },
+  {
+    "country": "iceland",
+    "country_code": [
+      "354"
+    ],
+    "iso_code": [
+      "IS",
+      "ISL"
+    ],
+    "flag": "/flags/iceland.jpg"
+  },
+  {
+    "country": "india",
+    "country_code": [
+      "91"
+    ],
+    "iso_code": [
+      "IN",
+      "IND"
+    ],
+    "flag": "/flags/india.jpg"
+  },
+  {
+    "country": "indonesia",
+    "country_code": [
+      "62"
+    ],
+    "iso_code": [
+      "ID",
+      "IDN"
+    ],
+    "flag": "/flags/indonesia.jpg"
+  },
+  {
+    "country": "iran",
+    "country_code": [
+      "98"
+    ],
+    "iso_code": [
+      "IR",
+      "IRN"
+    ],
+    "flag": "/flags/iran.jpg"
+  },
+  {
+    "country": "iraq",
+    "country_code": [
+      "964"
+    ],
+    "iso_code": [
+      "IQ",
+      "IRQ"
+    ],
+    "flag": "/flags/iraq.jpg"
+  },
+  {
+    "country": "ireland",
+    "country_code": [
+      "353"
+    ],
+    "iso_code": [
+      "IE",
+      "IRL"
+    ],
+    "flag": "/flags/ireland.jpg"
+  },
+  {
+    "country": "israel",
+    "country_code": [
+      "972"
+    ],
+    "iso_code": [
+      "IL",
+      "ISR"
+    ],
+    "flag": "/flags/israel.jpg"
+  },
+  {
+    "country": "italy",
+    "country_code": [
+      "39"
+    ],
+    "iso_code": [
+      "IT",
+      "ITA"
+    ],
+    "flag": "/flags/italy.jpg"
+  },
+  {
+    "country": "ivory coast",
+    "country_code": [
+      "225"
+    ],
+    "iso_code": [
+      "CI",
+      "CIV"
+    ],
+    "flag": "/flags/ivory coast.jpg"
+  },
+  {
+    "country": "jamaica",
+    "country_code": [
+      "1-876"
+    ],
+    "iso_code": [
+      "JM",
+      "JAM"
+    ],
+    "flag": "/flags/jamaica.jpg"
+  },
+  {
+    "country": "japan",
+    "country_code": [
+      "81"
+    ],
+    "iso_code": [
+      "JP",
+      "JPN"
+    ],
+    "flag": "/flags/japan.jpg"
+  },
+  {
+    "country": "jordan",
+    "country_code": [
+      "962"
+    ],
+    "iso_code": [
+      "JO",
+      "JOR"
+    ],
+    "flag": "/flags/jordan.jpg"
+  },
+  {
+    "country": "kazakhstan",
+    "country_code": [
+      "7"
+    ],
+    "iso_code": [
+      "KZ",
+      "KAZ"
+    ],
+    "flag": "/flags/kazakhstan.jpg"
+  },
+  {
+    "country": "kenya",
+    "country_code": [
+      "254"
+    ],
+    "iso_code": [
+      "KE",
+      "KEN"
+    ],
+    "flag": "/flags/kenya.jpg"
+  },
+  {
+    "country": "kiribati",
+    "country_code": [
+      "686"
+    ],
+    "iso_code": [
+      "KI",
+      "KIR"
+    ],
+    "flag": "/flags/kiribati.jpg"
+  },
+  {
+    "country": "kosovo",
+    "country_code": [
+      "383"
+    ],
+    "iso_code": [
+      "XK",
+      "XKX"
+    ],
+    "flag": "/flags/kosovo.jpg"
+  },
+  {
+    "country": "kuwait",
+    "country_code": [
+      "965"
+    ],
+    "iso_code": [
+      "KW",
+      "KWT"
+    ],
+    "flag": "/flags/kuwait.jpg"
+  },
+  {
+    "country": "kyrgyzstan",
+    "country_code": [
+      "996"
+    ],
+    "iso_code": [
+      "KG",
+      "KGZ"
+    ],
+    "flag": "/flags/kyrgyzstan.jpg"
+  },
+  {
+    "country": "laos",
+    "country_code": [
+      "856"
+    ],
+    "iso_code": [
+      "LA",
+      "LAO"
+    ],
+    "flag": "/flags/laos.jpg"
+  },
+  {
+    "country": "latvia",
+    "country_code": [
+      "371"
+    ],
+    "iso_code": [
+      "LV",
+      "LVA"
+    ],
+    "flag": "/flags/latvia.jpg"
+  },
+  {
+    "country": "lebanon",
+    "country_code": [
+      "961"
+    ],
+    "iso_code": [
+      "LB",
+      "LBN"
+    ],
+    "flag": "/flags/lebanon.jpg"
+  },
+  {
+    "country": "lesotho",
+    "country_code": [
+      "266"
+    ],
+    "iso_code": [
+      "LS",
+      "LSO"
+    ],
+    "flag": "/flags/lesotho.jpg"
+  },
+  {
+    "country": "liberia",
+    "country_code": [
+      "231"
+    ],
+    "iso_code": [
+      "LR",
+      "LBR"
+    ],
+    "flag": "/flags/liberia.jpg"
+  },
+  {
+    "country": "libya",
+    "country_code": [
+      "218"
+    ],
+    "iso_code": [
+      "LY",
+      "LBY"
+    ],
+    "flag": "/flags/libya.jpg"
+  },
+  {
+    "country": "liechtenstein",
+    "country_code": [
+      "423"
+    ],
+    "iso_code": [
+      "LI",
+      "LIE"
+    ],
+    "flag": "/flags/liechtenstein.jpg"
+  },
+  {
+    "country": "lithuania",
+    "country_code": [
+      "370"
+    ],
+    "iso_code": [
+      "LT",
+      "LTU"
+    ],
+    "flag": "/flags/lithuania.jpg"
+  },
+  {
+    "country": "luxembourg",
+    "country_code": [
+      "352"
+    ],
+    "iso_code": [
+      "LU",
+      "LUX"
+    ],
+    "flag": "/flags/luxembourg.jpg"
+  },
+  {
+    "country": "madagascar",
+    "country_code": [
+      "261"
+    ],
+    "iso_code": [
+      "MG",
+      "MDG"
+    ],
+    "flag": "/flags/madagascar.jpg"
+  },
+  {
+    "country": "malawi",
+    "country_code": [
+      "265"
+    ],
+    "iso_code": [
+      "MW",
+      "MWI"
+    ],
+    "flag": "/flags/malawi.jpg"
+  },
+  {
+    "country": "malaysia",
+    "country_code": [
+      "60"
+    ],
+    "iso_code": [
+      "MY",
+      "MYS"
+    ],
+    "flag": "/flags/malaysia.jpg"
+  },
+  {
+    "country": "maldives",
+    "country_code": [
+      "960"
+    ],
+    "iso_code": [
+      "MV",
+      "MDV"
+    ],
+    "flag": "/flags/maldives.jpg"
+  },
+  {
+    "country": "mali",
+    "country_code": [
+      "223"
+    ],
+    "iso_code": [
+      "ML",
+      "MLI"
+    ],
+    "flag": "/flags/mali.jpg"
+  },
+  {
+    "country": "malta",
+    "country_code": [
+      "356"
+    ],
+    "iso_code": [
+      "MT",
+      "MLT"
+    ],
+    "flag": "/flags/malta.jpg"
+  },
+  {
+    "country": "marshall islands",
+    "country_code": [
+      "692"
+    ],
+    "iso_code": [
+      "MH",
+      "MHL"
+    ],
+    "flag": "/flags/marshall islands.jpg"
+  },
+  {
+    "country": "mauritania",
+    "country_code": [
+      "222"
+    ],
+    "iso_code": [
+      "MR",
+      "MRT"
+    ],
+    "flag": "/flags/mauritania.jpg"
+  },
+  {
+    "country": "mauritius",
+    "country_code": [
+      "230"
+    ],
+    "iso_code": [
+      "MU",
+      "MUS"
+    ],
+    "flag": "/flags/mauritius.jpg"
+  },
+  {
+    "country": "mexico",
+    "country_code": [
+      "52"
+    ],
+    "iso_code": [
+      "MX",
+      "MEX"
+    ],
+    "flag": "/flags/mexico.jpg"
+  },
+  {
+    "country": "micronesia",
+    "country_code": [
+      "691"
+    ],
+    "iso_code": [
+      "FM",
+      "FSM"
+    ],
+    "flag": "/flags/micronesia.jpg"
+  },
+  {
+    "country": "moldova",
+    "country_code": [
+      "373"
+    ],
+    "iso_code": [
+      "MD",
+      "MDA"
+    ],
+    "flag": "/flags/moldova.jpg"
+  },
+  {
+    "country": "monaco",
+    "country_code": [
+      "377"
+    ],
+    "iso_code": [
+      "MC",
+      "MCO"
+    ],
+    "flag": "/flags/monaco.jpg"
+  },
+  {
+    "country": "mongolia",
+    "country_code": [
+      "976"
+    ],
+    "iso_code": [
+      "MN",
+      "MNG"
+    ],
+    "flag": "/flags/mongolia.jpg"
+  },
+  {
+    "country": "montenegro",
+    "country_code": [
+      "382"
+    ],
+    "iso_code": [
+      "ME",
+      "MNE"
+    ],
+    "flag": "/flags/montenegro.jpg"
+  },
+  {
+    "country": "morocco",
+    "country_code": [
+      "212"
+    ],
+    "iso_code": [
+      "MA",
+      "MAR"
+    ],
+    "flag": "/flags/morocco.jpg"
+  },
+  {
+    "country": "mozambique",
+    "country_code": [
+      "258"
+    ],
+    "iso_code": [
+      "MZ",
+      "MOZ"
+    ],
+    "flag": "/flags/mozambique.jpg"
+  },
+  {
+    "country": "myanmar",
+    "country_code": [
+      "95"
+    ],
+    "iso_code": [
+      "MM",
+      "MMR"
+    ],
+    "flag": "/flags/myanmar.jpg"
+  },
+  {
+    "country": "namibia",
+    "country_code": [
+      "264"
+    ],
+    "iso_code": [
+      "NA",
+      "NAM"
+    ],
+    "flag": "/flags/namibia.jpg"
+  },
+  {
+    "country": "nauru",
+    "country_code": [
+      "674"
+    ],
+    "iso_code": [
+      "NR",
+      "NRU"
+    ],
+    "flag": "/flags/nauru.jpg"
+  },
+  {
+    "country": "nepal",
+    "country_code": [
+      "977"
+    ],
+    "iso_code": [
+      "NP",
+      "NPL"
+    ],
+    "flag": "/flags/nepal.jpg"
+  },
+  {
+    "country": "netherlands",
+    "country_code": [
+      "31"
+    ],
+    "iso_code": [
+      "NL",
+      "NLD"
+    ],
+    "flag": "/flags/netherlands.jpg"
+  },
+  {
+    "country": "new zealand",
+    "country_code": [
+      "64"
+    ],
+    "iso_code": [
+      "NZ",
+      "NZL"
+    ],
+    "flag": "/flags/new zealand.jpg"
+  },
+  {
+    "country": "nicaragua",
+    "country_code": [
+      "505"
+    ],
+    "iso_code": [
+      "NI",
+      "NIC"
+    ],
+    "flag": "/flags/nicaragua.jpg"
+  },
+  {
+    "country": "niger",
+    "country_code": [
+      "227"
+    ],
+    "iso_code": [
+      "NE",
+      "NER"
+    ],
+    "flag": "/flags/niger.jpg"
+  },
+  {
+    "country": "nigeria",
+    "country_code": [
+      "234"
+    ],
+    "iso_code": [
+      "NG",
+      "NGA"
+    ],
+    "flag": "/flags/nigeria.jpg"
+  },
+  {
+    "country": "north korea",
+    "country_code": [
+      "850"
+    ],
+    "iso_code": [
+      "KP",
+      "PRK"
+    ],
+    "flag": "/flags/north korea.jpg"
+  },
+  {
+    "country": "north macedonia",
+    "country_code": [
+      "389"
+    ],
+    "iso_code": [
+      "MK",
+      "MKD"
+    ],
+    "flag": "/flags/north macedonia.jpg"
+  },
+  {
+    "country": "norway",
+    "country_code": [
+      "47"
+    ],
+    "iso_code": [
+      "NO",
+      "NOR"
+    ],
+    "flag": "/flags/norway.jpg"
+  },
+  {
+    "country": "oman",
+    "country_code": [
+      "968"
+    ],
+    "iso_code": [
+      "OM",
+      "OMN"
+    ],
+    "flag": "/flags/oman.jpg"
+  },
+  {
+    "country": "pakistan",
+    "country_code": [
+      "92"
+    ],
+    "iso_code": [
+      "PK",
+      "PAK"
+    ],
+    "flag": "/flags/pakistan.jpg"
+  },
+  {
+    "country": "palau",
+    "country_code": [
+      "680"
+    ],
+    "iso_code": [
+      "PW",
+      "PLW"
+    ],
+    "flag": "/flags/palau.jpg"
+  },
+  {
+    "country": "palestine",
+    "country_code": [
+      "970"
+    ],
+    "iso_code": [
+      "PS",
+      "PSE"
+    ],
+    "flag": "/flags/palestine.jpg"
+  },
+  {
+    "country": "panama",
+    "country_code": [
+      "507"
+    ],
+    "iso_code": [
+      "PA",
+      "PAN"
+    ],
+    "flag": "/flags/panama.jpg"
+  },
+  {
+    "country": "papua new guinea",
+    "country_code": [
+      "675"
+    ],
+    "iso_code": [
+      "PG",
+      "PNG"
+    ],
+    "flag": "/flags/papua new guinea.jpg"
+  },
+  {
+    "country": "paraguay",
+    "country_code": [
+      "595"
+    ],
+    "iso_code": [
+      "PY",
+      "PRY"
+    ],
+    "flag": "/flags/paraguay.jpg"
+  },
+  {
+    "country": "peru",
+    "country_code": [
+      "51"
+    ],
+    "iso_code": [
+      "PE",
+      "PER"
+    ],
+    "flag": "/flags/peru.jpg"
+  },
+  {
+    "country": "philippines",
+    "country_code": [
+      "63"
+    ],
+    "iso_code": [
+      "PH",
+      "PHL"
+    ],
+    "flag": "/flags/philippines.jpg"
+  },
+  {
+    "country": "poland",
+    "country_code": [
+      "48"
+    ],
+    "iso_code": [
+      "PL",
+      "POL"
+    ],
+    "flag": "/flags/poland.jpg"
+  },
+  {
+    "country": "portugal",
+    "country_code": [
+      "351"
+    ],
+    "iso_code": [
+      "PT",
+      "PRT"
+    ],
+    "flag": "/flags/portugal.jpg"
+  },
+  {
+    "country": "qatar",
+    "country_code": [
+      "974"
+    ],
+    "iso_code": [
+      "QA",
+      "QAT"
+    ],
+    "flag": "/flags/qatar.jpg"
+  },
+  {
+    "country": "romania",
+    "country_code": [
+      "40"
+    ],
+    "iso_code": [
+      "RO",
+      "ROU"
+    ],
+    "flag": "/flags/romania.jpg"
+  },
+  {
+    "country": "russia",
+    "country_code": [
+      "7"
+    ],
+    "iso_code": [
+      "RU",
+      "RUS"
+    ],
+    "flag": "/flags/russia.jpg"
+  },
+  {
+    "country": "rwanda",
+    "country_code": [
+      "250"
+    ],
+    "iso_code": [
+      "RW",
+      "RWA"
+    ],
+    "flag": "/flags/rwanda.jpg"
+  },
+  {
+    "country": "saint kitts and nevis",
+    "country_code": [
+      "1-869"
+    ],
+    "iso_code": [
+      "KN",
+      "KNA"
+    ],
+    "flag": "/flags/saint kitts and nevis.jpg"
+  },
+  {
+    "country": "saint lucia",
+    "country_code": [
+      "1-758"
+    ],
+    "iso_code": [
+      "LC",
+      "LCA"
+    ],
+    "flag": "/flags/saint lucia.jpg"
+  },
+  {
+    "country": "saint vincent and the grenadines",
+    "country_code": [
+      "1-784"
+    ],
+    "iso_code": [
+      "VC",
+      "VCT"
+    ],
+    "flag": "/flags/saint vincent and the grenadines.jpg"
+  },
+  {
+    "country": "samoa",
+    "country_code": [
+      "685"
+    ],
+    "iso_code": [
+      "WS",
+      "WSM"
+    ],
+    "flag": "/flags/samoa.jpg"
+  },
+  {
+    "country": "san marino",
+    "country_code": [
+      "378"
+    ],
+    "iso_code": [
+      "SM",
+      "SMR"
+    ],
+    "flag": "/flags/san marino.jpg"
+  },
+  {
+    "country": "saudi arabia",
+    "country_code": [
+      "966"
+    ],
+    "iso_code": [
+      "SA",
+      "SAU"
+    ],
+    "flag": "/flags/saudi arabia.jpg"
+  },
+  {
+    "country": "senegal",
+    "country_code": [
+      "221"
+    ],
+    "iso_code": [
+      "SN",
+      "SEN"
+    ],
+    "flag": "/flags/senegal.jpg"
+  },
+  {
+    "country": "serbia",
+    "country_code": [
+      "381"
+    ],
+    "iso_code": [
+      "RS",
+      "SRB"
+    ],
+    "flag": "/flags/serbia.jpg"
+  },
+  {
+    "country": "seychelles",
+    "country_code": [
+      "248"
+    ],
+    "iso_code": [
+      "SC",
+      "SYC"
+    ],
+    "flag": "/flags/seychelles.jpg"
+  },
+  {
+    "country": "sierra leone",
+    "country_code": [
+      "232"
+    ],
+    "iso_code": [
+      "SL",
+      "SLE"
+    ],
+    "flag": "/flags/sierra leone.jpg"
+  },
+  {
+    "country": "singapore",
+    "country_code": [
+      "65"
+    ],
+    "iso_code": [
+      "SG",
+      "SGP"
+    ],
+    "flag": "/flags/singapore.jpg"
+  },
+  {
+    "country": "slovakia",
+    "country_code": [
+      "421"
+    ],
+    "iso_code": [
+      "SK",
+      "SVK"
+    ],
+    "flag": "/flags/slovakia.jpg"
+  },
+  {
+    "country": "slovenia",
+    "country_code": [
+      "386"
+    ],
+    "iso_code": [
+      "SI",
+      "SVN"
+    ],
+    "flag": "/flags/slovenia.jpg"
+  },
+  {
+    "country": "solomon islands",
+    "country_code": [
+      "677"
+    ],
+    "iso_code": [
+      "SB",
+      "SLB"
+    ],
+    "flag": "/flags/solomon islands.jpg"
+  },
+  {
+    "country": "somalia",
+    "country_code": [
+      "252"
+    ],
+    "iso_code": [
+      "SO",
+      "SOM"
+    ],
+    "flag": "/flags/somalia.jpg"
+  },
+  {
+    "country": "south africa",
+    "country_code": [
+      "27"
+    ],
+    "iso_code": [
+      "ZA",
+      "ZAF"
+    ],
+    "flag": "/flags/south africa.jpg"
+  },
+  {
+    "country": "south korea",
+    "country_code": [
+      "82"
+    ],
+    "iso_code": [
+      "KR",
+      "KOR"
+    ],
+    "flag": "/flags/south korea.jpg"
+  },
+  {
+    "country": "south sudan",
+    "country_code": [
+      "211"
+    ],
+    "iso_code": [
+      "SS",
+      "SSD"
+    ],
+    "flag": "/flags/south sudan.jpg"
+  },
+  {
+    "country": "spain",
+    "country_code": [
+      "34"
+    ],
+    "iso_code": [
+      "ES",
+      "ESP"
+    ],
+    "flag": "/flags/spain.jpg"
+  },
+  {
+    "country": "sri lanka",
+    "country_code": [
+      "94"
+    ],
+    "iso_code": [
+      "LK",
+      "LKA"
+    ],
+    "flag": "/flags/sri lanka.jpg"
+  },
+  {
+    "country": "sudan",
+    "country_code": [
+      "249"
+    ],
+    "iso_code": [
+      "SD",
+      "SDN"
+    ],
+    "flag": "/flags/sudan.jpg"
+  },
+  {
+    "country": "suriname",
+    "country_code": [
+      "597"
+    ],
+    "iso_code": [
+      "SR",
+      "SUR"
+    ],
+    "flag": "/flags/suriname.jpg"
+  },
+  {
+    "country": "sweden",
+    "country_code": [
+      "46"
+    ],
+    "iso_code": [
+      "SE",
+      "SWE"
+    ],
+    "flag": "/flags/sweden.jpg"
+  },
+  {
+    "country": "switzerland",
+    "country_code": [
+      "41"
+    ],
+    "iso_code": [
+      "CH",
+      "CHE"
+    ],
+    "flag": "/flags/switzerland.jpg"
+  },
+  {
+    "country": "syria",
+    "country_code": [
+      "963"
+    ],
+    "iso_code": [
+      "SY",
+      "SYR"
+    ],
+    "flag": "/flags/syria.jpg"
+  },
+  {
+    "country": "são tomé and príncipe",
+    "country_code": [
+      "239"
+    ],
+    "iso_code": [
+      "ST",
+      "STP"
+    ],
+    "flag": "/flags/são tomé and príncipe.jpg"
+  },
+  {
+    "country": "taiwan",
+    "country_code": [
+      "886"
+    ],
+    "iso_code": [
+      "TW",
+      "TWN"
+    ],
+    "flag": "/flags/taiwan.jpg"
+  },
+  {
+    "country": "tajikistan",
+    "country_code": [
+      "992"
+    ],
+    "iso_code": [
+      "TJ",
+      "TJK"
+    ],
+    "flag": "/flags/tajikistan.jpg"
+  },
+  {
+    "country": "tanzania",
+    "country_code": [
+      "255"
+    ],
+    "iso_code": [
+      "TZ",
+      "TZA"
+    ],
+    "flag": "/flags/tanzania.jpg"
+  },
+  {
+    "country": "thailand",
+    "country_code": [
+      "66"
+    ],
+    "iso_code": [
+      "TH",
+      "THA"
+    ],
+    "flag": "/flags/thailand.jpg"
+  },
+  {
+    "country": "togo",
+    "country_code": [
+      "228"
+    ],
+    "iso_code": [
+      "TG",
+      "TGO"
+    ],
+    "flag": "/flags/togo.jpg"
+  },
+  {
+    "country": "tonga",
+    "country_code": [
+      "676"
+    ],
+    "iso_code": [
+      "TO",
+      "TON"
+    ],
+    "flag": "/flags/tonga.jpg"
+  },
+  {
+    "country": "trinidad and tobago",
+    "country_code": [
+      "1-868"
+    ],
+    "iso_code": [
+      "TT",
+      "TTO"
+    ],
+    "flag": "/flags/trinidad and tobago.jpg"
+  },
+  {
+    "country": "tunisia",
+    "country_code": [
+      "216"
+    ],
+    "iso_code": [
+      "TN",
+      "TUN"
+    ],
+    "flag": "/flags/tunisia.jpg"
+  },
+  {
+    "country": "turkey",
+    "country_code": [
+      "90"
+    ],
+    "iso_code": [
+      "TR",
+      "TUR"
+    ],
+    "flag": "/flags/turkey.jpg"
+  },
+  {
+    "country": "turkmenistan",
+    "country_code": [
+      "993"
+    ],
+    "iso_code": [
+      "TM",
+      "TKM"
+    ],
+    "flag": "/flags/turkmenistan.jpg"
+  },
+  {
+    "country": "tuvalu",
+    "country_code": [
+      "688"
+    ],
+    "iso_code": [
+      "TV",
+      "TUV"
+    ],
+    "flag": "/flags/tuvalu.jpg"
+  },
+  {
+    "country": "uganda",
+    "country_code": [
+      "256"
+    ],
+    "iso_code": [
+      "UG",
+      "UGA"
+    ],
+    "flag": "/flags/uganda.jpg"
+  },
+  {
+    "country": "ukraine",
+    "country_code": [
+      "380"
+    ],
+    "iso_code": [
+      "UA",
+      "UKR"
+    ],
+    "flag": "/flags/ukraine.jpg"
+  },
+  {
+    "country": "united arab emirates",
+    "country_code": [
+      "971"
+    ],
+    "iso_code": [
+      "AE",
+      "ARE"
+    ],
+    "flag": "/flags/united arab emirates.jpg"
+  },
+  {
+    "country": "united kingdom",
+    "country_code": [
+      "44"
+    ],
+    "iso_code": [
+      "GB",
+      "GBR"
+    ],
+    "flag": "/flags/united kingdom.jpg"
+  },
+  {
+    "country": "united states",
+    "country_code": [
+      "1"
+    ],
+    "iso_code": [
+      "US",
+      "USA"
+    ],
+    "flag": "/flags/united states.jpg"
+  },
+  {
+    "country": "uruguay",
+    "country_code": [
+      "598"
+    ],
+    "iso_code": [
+      "UY",
+      "URY"
+    ],
+    "flag": "/flags/uruguay.jpg"
+  },
+  {
+    "country": "uzbekistan",
+    "country_code": [
+      "998"
+    ],
+    "iso_code": [
+      "UZ",
+      "UZB"
+    ],
+    "flag": "/flags/uzbekistan.jpg"
+  },
+  {
+    "country": "vanuatu",
+    "country_code": [
+      "678"
+    ],
+    "iso_code": [
+      "VU",
+      "VUT"
+    ],
+    "flag": "/flags/vanuatu.jpg"
+  },
+  {
+    "country": "vatican",
+    "country_code": [
+      "379"
+    ],
+    "iso_code": [
+      "VA",
+      "VAT"
+    ],
+    "flag": "/flags/vatican.jpg"
+  },
+  {
+    "country": "venezuela",
+    "country_code": [
+      "58"
+    ],
+    "iso_code": [
+      "VE",
+      "VEN"
+    ],
+    "flag": "/flags/venezuela.jpg"
+  },
+  {
+    "country": "vietnam",
+    "country_code": [
+      "84"
+    ],
+    "iso_code": [
+      "VN",
+      "VNM"
+    ],
+    "flag": "/flags/vietnam.jpg"
+  },
+  {
+    "country": "yemen",
+    "country_code": [
+      "967"
+    ],
+    "iso_code": [
+      "YE",
+      "YEM"
+    ],
+    "flag": "/flags/yemen.jpg"
+  },
+  {
+    "country": "zambia",
+    "country_code": [
+      "260"
+    ],
+    "iso_code": [
+      "ZM",
+      "ZMB"
+    ],
+    "flag": "/flags/zambia.jpg"
+  },
+  {
+    "country": "zimbabwe",
+    "country_code": [
+      "263"
+    ],
+    "iso_code": [
+      "ZW",
+      "ZWE"
+    ],
+    "flag": "/flags/zimbabwe.jpg"
+  }
+]
